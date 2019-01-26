@@ -1,5 +1,5 @@
 # docker-hook
-Send docker events by web hook
+Send docker events to web hook
 
 ## Use
 
