@@ -2,10 +2,7 @@
 Send docker events to web hook
 
 ## Use
-
+edit web hook url first
 ```
-docker run \
-  -v /var/run/docker.sock:/var/run/docker.sock:ro \
-  
-  reflectivecode/docker-alerter
+scripts/run-boot.sh
 ```
